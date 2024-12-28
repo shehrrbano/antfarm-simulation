@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1735145212 source:c:\users\laptop gallery\desktop\leximo\antfarm simulation code\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1735411683 source:c:\users\laptop gallery\desktop\antfarm simulation code\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+
